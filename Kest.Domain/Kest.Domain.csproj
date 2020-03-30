@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Kest.Domain.Abstractions\Kest.Domain.Abstractions.csproj" />
+  </ItemGroup>
+
 </Project>
